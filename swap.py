@@ -1,39 +1,3 @@
-
-# a=20
-# b=30
-# a, b =b, a
-# print("swap value of a and b are",a,b)
-#
-# #additiona=input("enter first number")print(a) print(b)p=int(a+bprint("p")ut
-# a=input("enter first number")
-# a=int(a)
-# b=input("enter second number")
-# b=int(b)
-# c=a+b
-# print("sum:",c)
-#
-# #nt(input("entech=input("enteelif ch =='-':    result=a - b* elif ch ==a
-# i=1
-# while i<=5:
-#     print('*' * i)
-#     i=i+1
-
-##exception handling
-# var_1 = input('enter the value of first number:')
-# var_2 = input('enter the value of second number')
-#
-# try:
-#     var_1 = int(var_1)
-#     var_2 = int(var_2)
-#
-#     if(var_2 !=0):
-#         result = var_1/var_2
-#         print('divison result is:',result)
-#     else:
-#         print('value of second variable cannnot be zero')
-# except ValueError:
-#     print('can only enter value')
-
 #exception  handling in calculator
 import tkinter as tk
 from tkinter import messagebox
